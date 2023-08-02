@@ -15,6 +15,7 @@
 2. Введение в работу с Git
    1. [часть 1 - Git Linux](https://github.com/IldarGaleevSkyProHomeworks/homework_3_3)
    2. [часть 2 - Git PyCharm](https://github.com/IldarGaleevSkyProHomeworks/homework_3_3_1)
+3. [Работа с ветками в Git](https://github.com/IldarGaleevSkyProHomeworks/homework_3_4/tree/main) 
 
 ## Упражнения из факультатива для тьюторов
 
