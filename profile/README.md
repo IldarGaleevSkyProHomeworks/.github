@@ -17,7 +17,10 @@
    2. [часть 2 - Git PyCharm](https://github.com/IldarGaleevSkyProHomeworks/homework_3_3_1)
 3. [Работа с ветками в Git](https://github.com/IldarGaleevSkyProHomeworks/homework_3_4/tree/main)
 4. [Настройка окружения (venv и Poetry)](https://github.com/IldarGaleevSkyProHomeworks/homework_3_5)
-5. [Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_3)
+5. Тестирование
+   1. [pytest](https://github.com/IldarGaleevSkyProHomeworks/homework_3_6_pytest)
+   2. [unittest](https://github.com/IldarGaleevSkyProHomeworks/homework_3_6_unittest)
+7. [Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_3)
 
 ## Упражнения из факультатива для тьюторов
 
