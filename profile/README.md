@@ -25,3 +25,7 @@
 ## Упражнения из факультатива для тьюторов
 
 1. [Знакомство с socket.io](https://github.com/IldarGaleevSkyProHomeworks/tutorial_socketio)
+
+## Эксперименты с одногрупниками
+
+1. [Бэкэнд для музыкальной медиатеки](https://github.com/IldarGaleevSkyProHomeworks/music_media_lib)
