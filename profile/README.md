@@ -26,6 +26,6 @@
 
 1. [Знакомство с socket.io](https://github.com/IldarGaleevSkyProHomeworks/tutorial_socketio)
 
-## Эксперименты с одногрупниками
+## Совместные эксперименты с одногрупниками
 
 1. [Бэкэнд для музыкальной медиатеки](https://github.com/IldarGaleevSkyProHomeworks/music_media_lib)
