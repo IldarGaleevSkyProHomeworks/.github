@@ -28,4 +28,5 @@
 
 ## Совместные эксперименты с одногрупниками
 
-1. [Бэкэнд для музыкальной медиатеки](https://github.com/IldarGaleevSkyProHomeworks/music_media_lib)
+1. [Бэкэнд для музыкальной медиатеки](https://github.com/IldarGaleevSkyProHomeworks/MusicMountainServer)
+2. [Фронтэнд для музыкальной библиотеки](https://github.com/IldarGaleevSkyProHomeworks/MusicMountainGUI)
