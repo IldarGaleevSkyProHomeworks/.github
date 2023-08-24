@@ -22,6 +22,12 @@
    2. [unittest](https://github.com/IldarGaleevSkyProHomeworks/homework_3_6_unittest)
 7. [Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_3)
 
+## Раздел 4. ООП
+
+1. Введение в ООП
+   1. [Проект "Магазин электроники"](https://github.com/IldarGaleevSkyProHomeworks/electronics-shop-project)
+   2. [Проект "Ютуб-аналитика"](https://github.com/IldarGaleevSkyProHomeworks/youtube-analytics-project)
+
 ## Упражнения из факультатива для тьюторов
 
 1. [Знакомство с socket.io](https://github.com/IldarGaleevSkyProHomeworks/tutorial_socketio)
