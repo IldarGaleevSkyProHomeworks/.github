@@ -28,6 +28,7 @@
    1. [Проект "Магазин электроники"](https://github.com/IldarGaleevSkyProHomeworks/electronics-shop-project)
    2. [Проект "Ютуб-аналитика"](https://github.com/IldarGaleevSkyProHomeworks/youtube-analytics-project)
    3. [Проект "Модуль Datastruct"](https://github.com/IldarGaleevSkyProHomeworks/data-structures-project)
+   4. [Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_4)
 
 ## Упражнения из факультатива для тьюторов
 
