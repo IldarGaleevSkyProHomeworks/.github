@@ -30,6 +30,10 @@
    3. [Проект "Модуль Datastruct"](https://github.com/IldarGaleevSkyProHomeworks/data-structures-project)
    4. [Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_4)
 
+## Раздел 5. Работа с базами данных
+
+1. [Домашние задания](https://github.com/IldarGaleevSkyProHomeworks/postgres-homeworks)
+
 ## Упражнения из факультатива для тьюторов
 
 1. [Знакомство с socket.io](https://github.com/IldarGaleevSkyProHomeworks/tutorial_socketio)
