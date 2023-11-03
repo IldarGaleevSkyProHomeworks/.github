@@ -34,6 +34,10 @@
 
 1. [Домашние задания](https://github.com/IldarGaleevSkyProHomeworks/postgres-homeworks)
 
+## Раздел 6. Django
+
+1. [Основы веба](https://github.com/IldarGaleevSkyProHomeworks/homework_6_1)
+
 ## Упражнения из факультатива для тьюторов
 
 1. [Знакомство с socket.io](https://github.com/IldarGaleevSkyProHomeworks/tutorial_socketio)
