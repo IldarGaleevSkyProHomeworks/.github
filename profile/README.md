@@ -39,6 +39,7 @@
 1. [Основы веба](https://github.com/IldarGaleevSkyProHomeworks/homework_6_1)
 2. [Знакомство с Django](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/46c9c4a133b52123d7e75b957af0af0c34322b92)
 3. [Работа с ORM в Django](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.3)
+4. [Шаблонизация](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.4)
 
 ## Упражнения из факультатива для тьюторов
 
