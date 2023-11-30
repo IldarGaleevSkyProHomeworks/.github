@@ -40,6 +40,7 @@
 2. [Знакомство с Django](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/46c9c4a133b52123d7e75b957af0af0c34322b92)
 3. [Работа с ORM в Django](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.3)
 4. [Шаблонизация](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.4)
+5. [FBV и CBV](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.5)
 
 ## Упражнения из факультатива для тьюторов
 
