@@ -33,6 +33,7 @@
 ## Раздел 5. Работа с базами данных
 
 1. [Домашние задания](https://github.com/IldarGaleevSkyProHomeworks/postgres-homeworks)
+2. [Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_5)
 
 ## Раздел 6. Django
 
