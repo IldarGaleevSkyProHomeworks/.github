@@ -42,6 +42,8 @@
 3. [Работа с ORM в Django](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.3)
 4. [Шаблонизация](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.4)
 5. [FBV и CBV](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.5)
+6. [Формы](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.6)
+7. [Аутентификация](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.7)
 
 ## Упражнения из факультатива для тьюторов
 
