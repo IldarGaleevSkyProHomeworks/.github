@@ -44,6 +44,7 @@
 5. [FBV и CBV](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.5)
 6. [Формы](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.6)
 7. [Аутентификация](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.7)
+8. [Права доступа](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.8)
 
 ## Упражнения из факультатива для тьюторов
 
