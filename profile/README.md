@@ -45,6 +45,7 @@
 6. [Формы](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.6)
 7. [Аутентификация](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.7)
 8. [Права доступа](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.8)
+9. [Кеширование и работа с переменными окружения](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.9)
 
 ## Упражнения из факультатива для тьюторов
 
