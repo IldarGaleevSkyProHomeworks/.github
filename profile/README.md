@@ -7,7 +7,7 @@
 
 1. [Вложенные структуры](https://github.com/IldarGaleevSkyProHomeworks/homework_2_2)
 2. [Абстракции, объекты и классы](https://github.com/IldarGaleevSkyProHomeworks/homework_2_3)
-3. [Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_2)
+3. [:blue_book: Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_2)
 
 ## Раздел 3. Основы backend-разработки
 
@@ -28,12 +28,12 @@
    1. [Проект "Магазин электроники"](https://github.com/IldarGaleevSkyProHomeworks/electronics-shop-project)
    2. [Проект "Ютуб-аналитика"](https://github.com/IldarGaleevSkyProHomeworks/youtube-analytics-project)
    3. [Проект "Модуль Datastruct"](https://github.com/IldarGaleevSkyProHomeworks/data-structures-project)
-   4. [Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_4)
+   4. [:blue_book: Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_4)
 
 ## Раздел 5. Работа с базами данных
 
 1. [Домашние задания](https://github.com/IldarGaleevSkyProHomeworks/postgres-homeworks)
-2. [Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_5)
+2. [:blue_book: Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_5)
 
 ## Раздел 6. Django
 
@@ -46,6 +46,7 @@
 7. [Аутентификация](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.7)
 8. [Права доступа](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.8)
 9. [Кеширование и работа с переменными окружения](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.9)
+10. [:blue_book: Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_6)
 
 ## Упражнения из факультатива для тьюторов
 
