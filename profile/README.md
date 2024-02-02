@@ -20,7 +20,7 @@
 5. Тестирование
    1. [pytest](https://github.com/IldarGaleevSkyProHomeworks/homework_3_6_pytest)
    2. [unittest](https://github.com/IldarGaleevSkyProHomeworks/homework_3_6_unittest)
-7. [Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_3)
+7. [:blue_book: Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_3)
 
 ## Раздел 4. ООП
 
