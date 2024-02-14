@@ -48,6 +48,11 @@
 9. [Кеширование и работа с переменными окружения](https://github.com/IldarGaleevSkyProHomeworks/django_homeworks/tree/homework_6.9)
 10. [:blue_book: Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_6)
 
+## Раздел 7. DRF
+
+1. [Вьюсеты и дженерики](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_1)
+2. [Сериализаторы](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_2)
+
 ## Упражнения из факультатива для тьюторов
 
 1. [Знакомство с socket.io](https://github.com/IldarGaleevSkyProHomeworks/tutorial_socketio)
