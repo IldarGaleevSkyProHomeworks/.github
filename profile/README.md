@@ -62,3 +62,4 @@
 1. [Бэкэнд для музыкальной медиатеки](https://github.com/IldarGaleevSkyProHomeworks/MusicMountainServer)
 2. [Фронтэнд для музыкальной библиотеки](https://github.com/IldarGaleevSkyProHomeworks/MusicMountainGUI)
 3. [Пример работы с asyncio (`aiogram`, `aiohttp`, `socketio`)](https://github.com/IldarGaleevSkyProHomeworks/async-io-example)
+4. [Асинк, Стремительный поток и Редиска! или пример работы с `aiohttp` + `FastStream` + `Redis`](https://github.com/IldarGaleevSkyProHomeworks/fast_stream_example)
