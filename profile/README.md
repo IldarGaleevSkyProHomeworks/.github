@@ -52,6 +52,7 @@
 
 1. [Вьюсеты и дженерики](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_1)
 2. [Сериализаторы](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_2)
+3. [Права доступа в DRF](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_3)
 
 ## Упражнения из факультатива для тьюторов
 
