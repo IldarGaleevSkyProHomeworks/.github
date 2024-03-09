@@ -55,6 +55,7 @@
 3. [Права доступа в DRF](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_3)
 4. [Валидаторы, пагинация и тесты](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_4)
 5. [Документирование и безопасность](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_5)
+6. [Celery](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_6)
 
 ## Упражнения из факультатива для тьюторов
 
