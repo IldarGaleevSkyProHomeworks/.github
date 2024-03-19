@@ -56,6 +56,7 @@
 4. [Валидаторы, пагинация и тесты](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_4)
 5. [Документирование и безопасность](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_5)
 6. [Celery](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_6)
+7. [:blue_book: Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_7/tree/coursework_7_1)
 
 ## Упражнения из факультатива для тьюторов
 
