@@ -58,6 +58,11 @@
 6. [Celery](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_7_6)
 7. [:blue_book: Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_7/tree/coursework_7_1)
 
+## Раздел 8. Docker
+
+1. [Docker compose](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_8_1)
+2. [:blue_book: Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_7/tree/coursework_8.1)
+
 ## Упражнения из факультатива для тьюторов
 
 1. [Знакомство с socket.io](https://github.com/IldarGaleevSkyProHomeworks/tutorial_socketio)
