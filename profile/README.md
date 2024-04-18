@@ -63,6 +63,10 @@
 1. [Docker compose](https://github.com/IldarGaleevSkyProHomeworks/homework_7/tree/homework_8_1)
 2. [:blue_book: Курсовая работа](https://github.com/IldarGaleevSkyProHomeworks/coursework_7/tree/coursework_8.1)
 
+## Дипломная работа :mortar_board:
+
+[:blue_book: Менеджер ключей](https://github.com/IldarGaleevSkyProHomeworks/graduate_work)
+
 ## Упражнения из факультатива для тьюторов
 
 1. [Знакомство с socket.io](https://github.com/IldarGaleevSkyProHomeworks/tutorial_socketio)
